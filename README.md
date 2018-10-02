@@ -48,4 +48,10 @@
 
 *Чуть позже выложу картинки уже проведенных обучений из Tb с пояснениями.*
 
-[<img src="./img_1_tb.png" width="1200">](./img_1_tb.png)
+[<img src="./img_1_tb.png" width="800">](./img_1_tb.png)
+
+UPD 2.10.18:
+- утечку нашел. Картинка сразу поменялась:
+
+[<img src="./img_2_tb_correct.png" width="1200">](./img_1_tb.png)
+

@@ -11,9 +11,15 @@
 
 Papers:
 
-- Hidden Talents of the Variational Autoencoder: https://arxiv.org/pdf/1706.05148.pdf
 - Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case: https://arxiv.org/pdf/1801.03851.pdf
 - β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK: https://openreview.net/references/pdf?id=Sy2fzU9gl
+- Hidden Talents of the Variational Autoencoder: https://arxiv.org/pdf/1706.05148.pdf
+
++++
+
+- Auto-Encoding Variational Bayes (VAE orig.paper, 2014): https://arxiv.org/pdf/1312.6114.pdf
+- Tensor Analyzers as a multilinear generalization of Factor Analyzers (2012): http://www.cs.toronto.edu/~fritz/absps/ta.pdf
+- Representation Learning: A Review and New Perspectives (Bengio, 2013): https://arxiv.org/pdf/1206.5538.pdf
 
 - The Ornstein-Uhlenbeck Process as a Model of Volatility: http://stat.math.uregina.ca/~kozdron/Teaching/Regina/441Fall14/Notes/L31-32-Nov19.pdf
 

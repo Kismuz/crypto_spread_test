@@ -4,14 +4,27 @@
 
 *****
 
+
 ##### 3.10.18
 - добавлен `crypto_spread_3_synthetic_ou_data_wb`: первая [и пока безуспешная] попытка обучения на синтетических данных,
 являющихся реализациями OU процесса с фиксированными параметрами.
+
+Papers:
+
+- Hidden Talents of the Variational Autoencoder: https://arxiv.org/pdf/1706.05148.pdf
+- Autoencoders and Probabilistic Inference with Missing Data: An Exact Solution for The Factor Analysis Case: https://arxiv.org/pdf/1801.03851.pdf
+- β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK: https://openreview.net/references/pdf?id=Sy2fzU9gl
+
+- The Ornstein-Uhlenbeck Process as a Model of Volatility: http://stat.math.uregina.ca/~kozdron/Teaching/Regina/441Fall14/Notes/L31-32-Nov19.pdf
+
+------
 
 ##### 2.10.18:
 - утечку нашел. Картинка сразу поменялась:
 
 [<img src="./img_2_tb_correct.png" width="1200">](./img_1_tb.png)
+
+------
 
 ##### 1.10.18:
 - first commit:

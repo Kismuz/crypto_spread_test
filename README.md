@@ -4,6 +4,20 @@
 
 *****
 
+##### 15.10.18
+- успешное обучениe на OU-синтетических данных (исправленная reward_fn): `crypto_spread_4_synthetic_ou_data_guided_working_reward_fn_wb.ipynb`:
+
+- без экспертных демонтраций:
+
+[<img src="./corrected_reward_2018-10-13.png" width="1200">](./img_1_tb.png)
+
+
+
+- с экспертом:
+
+[<img src="./corrected_reward_guded_2018-10-13.png" width="1200">](./img_1_tb.png)
+
+------
 
 ##### 3.10.18
 - добавлен `crypto_spread_3_synthetic_ou_data_wb`: первая [и пока безуспешная] попытка обучения на синтетических данных,
